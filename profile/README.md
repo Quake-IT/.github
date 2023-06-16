@@ -50,21 +50,21 @@ Connect and collaborate with other creators through Quake's messaging system. Yo
 
 To get started on Quake, follow these simple steps:
 
-1. Visit our website at [https://www.quake.com](https://www.quake.com).
+1. Visit our website at [https://www.quake.com]().
 2. Click on the "Sign Up" button to create a new account.
 3. Customize your profile and start posting !
 4. Start exploring, connecting with others, and engaging with the community.
 
 ## Feedback and Support
 
-We value your feedback and are dedicated to providing the best possible experience on Quake. If you have any questions, suggestions, or need assistance, please reach out to our support team at [support@quake.com](mailto:support@quake.com). We are here to help you! 🙌
+We value your feedback and are dedicated to providing the best possible experience on Quake. If you have any questions, suggestions, or need assistance, please reach out to our support team at [support@quake.com](). We are here to help you! 🙌
 
 ## Stay Connected
 
 Stay up-to-date with the latest news, updates, and community highlights by following Quake on social media:
 
-- Twitter: [@QuakeApp](https://twitter.com/QuakeApp)
-- Instagram: [@QuakeApp](https://www.instagram.com/quakeapp)
-- Facebook: [QuakeApp](https://www.facebook.com/QuakeApp)
+- Twitter: [@QuakeApp]()
+- Instagram: [@QuakeApp]()
+- Facebook: [QuakeApp]()
 
 Join the creative revolution on Quake and unleash your imagination! ✨
