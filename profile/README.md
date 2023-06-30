@@ -50,7 +50,7 @@ Connect and collaborate with other creators through Quake's messaging system. Yo
 
 To get started on Quake, follow these simple steps:
 
-1. Visit our website at [https://www.quake.com]().
+1. Visit our website at []().
 2. Click on the "Sign Up" button to create a new account.
 3. Customize your profile and start posting !
 4. Start exploring, connecting with others, and engaging with the community.
